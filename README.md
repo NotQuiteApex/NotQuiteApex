@@ -1,2 +1,2 @@
 ### Hey, I'm Logan (or Apex)! (pronouns: he/him)
-I do a lot of C++, Lua, and Python, as well as Embedded C (Arduino/PlatformIO) and C# (WinForms). I'm currently pursuing my Computer Science degree. I stream on Twitch.tv as a hobby under this name, mostly games and talking with friends.
+I do a lot of C++, Lua, and Python, as well as Embedded C (Arduino/PlatformIO) and C# (WinForms), and am learning Rust in my free time. I'm well experienced in making use of REST APIs. I'm currently pursuing my BS Computer Science degree at Purdue University. I also stream on Twitch.tv as a hobby under this name, mostly games and talking with friends.
